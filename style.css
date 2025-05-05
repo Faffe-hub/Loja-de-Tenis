@@ -561,3 +561,8 @@ footer {
     padding: 20px;
   }
 }
+<style>
+  #info-section {
+    background-color: #f0f0f0; /* cinza claro */
+    padding: 40px 0;
+  }
